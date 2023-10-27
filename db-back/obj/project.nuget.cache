@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISjI7mx5TnJZo+1Tsu57bqokD9odt4APtI0Z1U6ae5vQmt2+jRtgn/D+Nnl2jj0bgpybDSk83TCbEgh1/1U7Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\OneDrive - Universidad Católica del Uruguay\\Uni\\4to Semestre\\Base de Datos 1\\Obligatorio\\bdobligatorio\\db-back\\db-back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
